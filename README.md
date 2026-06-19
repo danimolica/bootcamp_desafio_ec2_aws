@@ -8,6 +8,8 @@ Este projeto apresenta uma arquitetura de dados baseada em serviços AWS para ar
 
 A solução foi projetada para atender desde as necessidades operacionais da aplicação até análises avançadas de Data Science e disponibilização de indicadores para áreas de negócio.
 
+<img width="1012" height="404" alt="ecommerce-sales-platform" src="https://github.com/user-attachments/assets/940db1ea-d852-40c0-bf18-6e480314f930" />
+
 ## Objetivos
 
 * Armazenar transações de vendas de forma segura e persistente.
